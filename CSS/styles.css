@@ -4,6 +4,36 @@
 
 
 body {
-    background-color: royalblue;
-    color:rgb(33, 237, 2)
+     color: #F7F7F7;
+     background-color: #393E46;
+    }
+
+
+#sobre_mi{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
+
+.nombre{
+    font-family: 'fantasy'; 
+    font-size: 3rem;
+    color: orange;
+}
+.apellido{
+    color: orange;
+}
+.subt{
+    color:white
+}
+.imgPerfil{
+    border-radius: 100%;
+    width: 16em;
+}
+
+/* el orden en este caso hace referencia a top-right-bottom-left propiamente en ese orden
+seria en sentido de las agujas del reloj */
+.mapa{
+    /* margin: 2rem 7rem 5rem 2rem;*/
+    padding: 2%;
+    }
+
