@@ -28,3 +28,16 @@ para los estilos de la pagina me falta definir bien las fuentes
 y cambiar los tamaños de los items
 
 ya estoy cansado asi que seguire despues. 
+
+
+# 31/05/2023
+retome con la pagina y hice varios cambios
+para empeza cambie de lugar los archivos y use como framework Flask 
+
+cambie algunas cosas de lugar tambien
+por ejemplo cree un archivo layout donde va todo el codigo reciclado 
+
+lo que no pude solucionar es por que no me aparece la info de about en la pagina 
+
+y por ultimo quede en cambiar el formato a la pagina de inicio, para la cual estoy usando freepik para usar las imagenes y canva para copiar algun formato que me guste. 
+
