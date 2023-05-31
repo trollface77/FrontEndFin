@@ -4,8 +4,8 @@
 
 
 body {
-     color: #F7F7F7;
-     background-color: #393E46;
+    color: #F7F7F7;   
+    background-color: #393E46;
     }
 
 
@@ -30,6 +30,9 @@ body {
     width: 16em;
 }
 
+.card{
+    width: 16em;
+}
 /* el orden en este caso hace referencia a top-right-bottom-left propiamente en ese orden
 seria en sentido de las agujas del reloj */
 .mapa{
