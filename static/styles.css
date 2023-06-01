@@ -10,24 +10,20 @@ body {
 
 
 #sobre_mi{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
 }
 
 .nombre{
-    font-family: 'fantasy'; 
-    font-size: 3rem;
-    color: orange;
-}
+    position: absolute;
+    top: 50px;
+    left: 50px;
+  }
 .apellido{
-    color: orange;
+    color: rgb(255, 255, 255);
 }
 .subt{
     color:white
-}
-.imgPerfil{
-    border-radius: 100%;
-    width: 16em;
 }
 
 .card{
